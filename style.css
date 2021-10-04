@@ -71,3 +71,17 @@ img {
 .clear {
   clear: both;
 }
+
+
+
+/*SVOLGIMENTO*/
+@media screen and (max-width: 480px) {
+  
+  .container{
+    display: flex;
+  }
+
+  #lezioni{
+    
+  }
+}
